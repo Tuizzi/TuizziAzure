@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;Initial Catalog=aspnet-TuizziAzure2013-20130327180714;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnet-TuizziAzure2013-20130327180714.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\luisfp\\documents\\visual\ studio\ 2012\\Projects\\TuizziAzure2013\\TuizziAzure2013\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>
